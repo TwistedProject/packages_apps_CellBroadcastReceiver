@@ -22,7 +22,7 @@
     <color name="read_bgcolor">#ffeeeeee</color>
     <color name="notification_color">#FFFF9800</color><!-- Orange 800 -->
 
-    <color name="cell_broadcast_color_primary">#ff263238</color>
-    <color name="cell_broadcast_color_primary_dark">#ff21272b</color>
+    <color name="cell_broadcast_color_primary">#181818</color>
+    <color name="cell_broadcast_color_primary_dark">#141414</color>
 </resources>
 
